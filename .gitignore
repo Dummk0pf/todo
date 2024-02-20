@@ -1,0 +1,13 @@
+/target/
+
+/src/test/
+
+.project
+
+.classpath
+
+*.class
+
+*.log
+
+*.jar
